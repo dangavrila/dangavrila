@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dangavrila
-- 👀 I’m interested in AR/VR, AI/ML, Android development
-- 🌱 I’m currently learning AR/VR development
+- 👀 I’m interested in Android development, AR/VR, AI/ML
+- 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on small class digital projects, aimed at increasing digitalization of SMEs.
-- 📫 How to reach me: ping me on Skype at dan.gavrila3
+- 📫 How to reach: email me on dan.gavrila3@gmail.com
 
 <!---
 dangavrila/dangavrila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
